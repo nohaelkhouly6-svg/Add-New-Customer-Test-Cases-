@@ -1,6 +1,6 @@
-# E-Commerce Web Application - Testing Portfolio
+# Add New Customer Feature - Testing Portfolio
 
-This repository contains the complete software testing artifacts for an E-Commerce web application. The testing process covers comprehensive manual test case design, execution, and defect tracking based on business requirements.
+Test documentation for the Add New Customer feature including Test Scenarios, Test Cases, and Bug Report.
 
 ## 📊 Project Deliverables
 * **Live Test Cases & Bug Report:** [Click Here to View the Google Sheet](https://docs.google.com/spreadsheets/d/1-0I62-IcfEiIAf8os6OoCBU0Av2m828RV2OKTnY9KfE/edit?usp=sharing)
